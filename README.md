@@ -1,6 +1,4 @@
-# weater-app
-
-![Github Actions Status](https://github.com/jashmehta3300/swan.git/workflows/Build/badge.svg)
+# weather-app
 
 A task for GSOC 
 
